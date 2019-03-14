@@ -4,4 +4,4 @@ Git is a distributed version control system.
 Git is free software.
 the third version.
 this is dev branch.
-your branch is.
+Creating a new branch is quick and simple.
